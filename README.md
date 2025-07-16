@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yağmur</h1>
-<h3 align="center">A passionate full-stack developer (çeyrek stack 😄) from the Netherlands</h3>
+<h1 align="center">Hi 👋, I'm Yagmur Yalcin</h1>
+<h3 align="center">A passionate full-stack developer (quarter stack 😄) from the Netherlands</h3>
 
 - 🔭 I’m currently working on **EsDeri**, my own e-commerce project for leather goods.
 
