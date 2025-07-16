@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yağmur</h1>
-<h3 align="center">A passionate çeyrek stack developer from Turkey</h3>
+<h3 align="center">A passionate full-stack developer (çeyrek stack 😄) from the Netherlands</h3>
 
-- 🔭 I’m currently working on **EsDeri**
+- 🔭 I’m currently working on **EsDeri**, my own e-commerce project for leather goods.
 
-- 🌱 I’m currently learning **React, Express, MongoDB**
+- 🌱 I’m currently learning **React, Express, MongoDB, and advanced Docker orchestration**.
 
-- 💬 Ask me about **C#, Java**
+- 👯 I’m looking to collaborate on **full-stack web apps, REST APIs, and modern cloud solutions**.
 
-- 📫 How to reach me **yagmuxr@gmail.com**
+- 💬 Ask me about **.NET Core, C#, Java, Spring Boot, React, Express.js, Docker setups, CI/CD pipelines, and cloud deployments**.
+
+- 📫 How to reach me **yagmuxr@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
